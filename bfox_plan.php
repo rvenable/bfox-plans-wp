@@ -1,8 +1,5 @@
 <?php
 
-require_once BFOX_REF_DIR . '/bfox_plan_parser.php';
-require_once BFOX_REF_DIR . '/bfox_plan_scheduler.php';
-
 function bfox_plans_create_post_type() {
 	//TODO: add plans directory template archive - see: http://www.ballyhooblog.com/custom-post-types-wordpress-30-with-template-archives/
 
