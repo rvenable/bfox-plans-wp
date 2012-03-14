@@ -1,6 +1,6 @@
 <?php
 
-class BfoxPlansController extends BfoxPluginController {
+class BfoxPlansController extends BfoxRootPluginController {
 
 	function init() {
 		parent::init();
